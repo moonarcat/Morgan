@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>moonaract</title>
+  <subtitle>Personal Blog</subtitle>
+  <link href="https://moonaract.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://moonaract.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://moonaract.github.io/</id>
+  <updated>2025-12-16T15:08:04.938Z</updated>
+  <language>zh_CN</language>
+</feed>
